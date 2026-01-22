@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <title>Ma'lumotlar jadvali</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    iframe {
+      width: 100%;
+      height: 100vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWGWSL68CLWl9XMQu-RjY_QRzmtwPbrn0ZZv0hjgvb_8AawEOqfQabDtOplymoio44IEUcBQgFtAjJ/pubhtml?widget=true&headers=false">
+</iframe>
+
+</body>
+</html>
